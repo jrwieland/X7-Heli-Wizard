@@ -5,7 +5,7 @@
  
  The wizard file has been updated as well to include the heli option.
  
- download the heli.lua and wizard.lua files and place them in your SCRIPT/WIZARD folder.
+ Download the heli.lua and wizard.lua files and place them in your SCRIPT/WIZARD folder.
  
  ## The Flybar setup will not work with until the next firmware update (2.3.15).
  
