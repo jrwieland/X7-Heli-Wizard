@@ -1,5 +1,5 @@
 # X7 Heli Wizard
- Open TX heli Wizard for X7 based radios
+ OpenTX Heli Wizard for X7 based radios
  
  The heli wizard is fully functional for FBL (Flybarless) helicopters
  
